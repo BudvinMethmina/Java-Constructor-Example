@@ -15,6 +15,7 @@ public class Main {
 
         System.out.print("Circle Area is ");
         f3.findArea();
+        System.out.println();
     }
 
 }
